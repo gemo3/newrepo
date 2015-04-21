@@ -1,3 +1,4 @@
 ##data science
-*data scientist's toolbox
-*R-programming
+###courses
+* data scientist's toolbox
+* R-programming
