@@ -4,4 +4,4 @@
 
 - text
 
-1. numbered
+1 numbered
